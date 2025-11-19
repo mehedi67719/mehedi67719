@@ -1,4 +1,4 @@
-<!-- Cover Photo -->
+<!-- Cover Photo / Banner -->
 <p align="center">
   <img src="https://github.com/mehedi67719/assets/raw/main/cover%20photo.png" alt="Cover Photo" width="100%" />
 </p>
@@ -6,14 +6,22 @@
 <h1 align="center">Hi 👋, I'm Mehedi Hassan</h1>
 <h3 align="center">Frontend & MERN Stack Developer From Bangladesh</h3>
 
-<!-- Removed profile views and trophy icons -->
-
 ---
 
 <h3 align="left">About Me</h3>
 <p>
 I'm a passionate Frontend & MERN Stack Developer from Bangladesh. I love building clean, responsive web applications and learning new technologies to enhance my skills. I enjoy working with modern web tools and creating projects that solve real-life problems.
 </p>
+
+<p>
+Currently, I'm working on:
+</p>
+<ul>
+  <li>🌱 Exploring Next.js and building full-stack applications</li>
+  <li>💻 Developing a tourism website project</li>
+  <li>🤖 Learning AI tools integration in web development</li>
+  <li>🛠 Contributing to open-source projects and improving my MERN stack skills</li>
+</ul>
 
 ---
 
@@ -61,19 +69,3 @@ I'm a passionate Frontend & MERN Stack Developer from Bangladesh. I love buildin
 <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=mehedi67719&show_icons=true&locale=en" alt="mehedi67719" /></p>
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mehedi67719&layout=compact" alt="mehedi67719" /></p>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mehedi67719" alt="mehedi67719" /></p>
-
----
-
-<h3 align="left">Learning Journey / Skills Highlights:</h3>
-<ul>
-  <li>✅ HTML & CSS – Clean, responsive web pages</li>
-  <li>✅ JavaScript – Real-life project usage, ES6, DOM manipulation</li>
-  <li>✅ React – Component-based architecture, real projects</li>
-  <li>✅ Node.js & Express – Backend development & API creation</li>
-  <li>✅ MongoDB – CRUD operations & data management</li>
-  <li>✅ Firebase – Authentication & cloud services</li>
-  <li>✅ Tailwind CSS – Modern responsive UI design</li>
-  <li>✅ Next.js – Full-stack app development & deployment</li>
-  <li>✅ Photoshop & Figma – UI/UX design basics</li>
-  <li>✅ AI tools – Exploring AI in web development</li>
-</ul>
