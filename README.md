@@ -3,7 +3,7 @@
   <img src="https://github.com/mehedi67719/assets/raw/main/cover%20photo.png" alt="Cover Photo" width="100%" />
 </p>
 
-<h1 align="center">Hi 👋, I'm Mehedi Hassan</h1>
+<h1 align="center">Hi 👋, I'm Mehadi Hassan</h1>
 <h3 align="center">Frontend & MERN Stack Developer From Bangladesh</h3>
 
 ---
