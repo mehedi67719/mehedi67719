@@ -1,71 +1,149 @@
-<!-- Cover Photo / Banner -->
+
+<!-- 🌟 HERO BANNER -->
 <p align="center">
-  <img src="https://github.com/mehedi67719/assets/raw/main/cover%20photo.png" alt="Cover Photo" width="100%" />
+  <img src="https://github.com/mehedi67719/assets/raw/main/cover%20photo.png" alt="Banner" width="100%" />
 </p>
 
-<h1 align="center">Hi 👋, I'm Mehadi Hassan</h1>
-<h3 align="center">Frontend & MERN Stack Developer From Bangladesh</h3>
-
----
-
-<h3 align="left">About Me</h3>
-<p>
-I'm a passionate Frontend & MERN Stack Developer from Bangladesh. I love building clean, responsive web applications and learning new technologies to enhance my skills. I enjoy working with modern web tools and creating projects that solve real-life problems.
+<!-- 🌊 WAVE HEADER -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=120&section=header"/>
 </p>
 
-<p>
-Currently, I'm working on:
-</p>
-<ul>
-  <li>🌱 Exploring Next.js and building full-stack applications</li>
-  <li>💻 Developing a tourism website project</li>
-  <li>🤖 Learning AI tools integration in web development</li>
-  <li>🛠 Contributing to open-source projects and improving my MERN stack skills</li>
-</ul>
+<h1 align="center">Hi 👋, I'm Mehedi Hassan</h1>
 
----
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-  <a href="https://dev.to/mehadi_hasan_5939c39f292b" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="dev.to" height="30" width="40" /></a>
-  <a href="https://linkedin.com/in/mehedi-hassan-3a31a7331" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" /></a>
-  <a href="https://fb.com/profile.php?id=100074953551907" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Facebook" height="30" width="40" /></a>
+<!-- ⚡ ANIMATED ROLE TEXT -->
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?color=00F5FF&center=true&vCenter=true&width=650&lines=Frontend+Developer;MERN+Stack+Engineer;Next.js+%26+TypeScript+Developer;Machine+Learning+Explorer;Open+to+Remote+Job+Opportunities" />
 </p>
 
 ---
 
-<h3 align="left">Languages</h3>
-<p>
-  <a href="https://www.w3schools.com/html/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML" width="40" height="40"/></a>
-  <a href="https://www.w3schools.com/css/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS" width="40" height="40"/></a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/></a>
-</p>
+# 💎 ABOUT ME (PROFESSIONAL)
 
-<h3 align="left">Frameworks & Libraries</h3>
-<p>
-  <a href="https://reactjs.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="40" height="40"/></a>
-  <a href="https://nextjs.org/" target="_blank"><img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="Next.js" width="40" height="40"/></a>
-  <a href="https://tailwindcss.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="Tailwind CSS" width="40" height="40"/></a>
-  <a href="https://nodejs.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" width="40" height="40"/></a>
-  <a href="https://expressjs.com" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="Express" width="40" height="40"/></a>
-</p>
-
-<h3 align="left">Database & Cloud</h3>
-<p>
-  <a href="https://www.mongodb.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" width="40" height="40"/></a>
-  <a href="https://firebase.google.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="Firebase" width="40" height="40"/></a>
-</p>
-
-<h3 align="left">Design & Tools</h3>
-<p>
-  <a href="https://www.photoshop.com/en" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="Photoshop" width="40" height="40"/></a>
-  <a href="https://www.figma.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="Figma" width="40" height="40"/></a>
-  <a href="https://git-scm.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40"/></a>
+<p align="center">
+🚀 Passionate <b>Full Stack Developer</b> from Bangladesh  
+💼 Actively seeking <b>Remote / Full-time Developer Roles</b>  
+⚡ I build scalable, fast and production-ready web applications  
+🎯 Focused on clean UI, performance optimization & modern architecture  
+🤖 Currently exploring AI + Machine Learning integration in web apps  
 </p>
 
 ---
 
-<h3 align="left">GitHub Stats</h3>
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=mehedi67719&show_icons=true&locale=en" alt="mehedi67719" /></p>
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mehedi67719&layout=compact" alt="mehedi67719" /></p>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mehedi67719" alt="mehedi67719" /></p>
+# 🧠 CORE TECH STACK (VISUAL HIGHLIGHT)
+
+## 🎨 Frontend
+<p align="center">
+<img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,ts,tailwind" />
+</p>
+
+## ⚙ Backend
+<p align="center">
+<img src="https://skillicons.dev/icons?i=nodejs,express" />
+</p>
+
+## 🗄 Database & Cloud
+<p align="center">
+<img src="https://skillicons.dev/icons?i=mongodb,firebase" />
+</p>
+
+## 🧰 Tools & Workflow
+<p align="center">
+<img src="https://skillicons.dev/icons?i=git,github,figma,postman,vscode" />
+</p>
+
+---
+
+# ⚡ CURRENT FOCUS (2026)
+
+- ⚡ Advanced Next.js Development  
+- 🧠 TypeScript Deep Mastery  
+- 🤖 Machine Learning Fundamentals  
+- 🔐 Secure Authentication Systems (JWT, OAuth)  
+- 🚀 Real-world Full Stack Applications  
+
+---
+
+# 📊 GITHUB PERFORMANCE (REAL DATA ONLY)
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=mehedi67719&show_icons=true&theme=tokyonight&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mehedi67719&theme=tokyonight&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mehedi67719&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
+
+---
+
+# 📈 CONTRIBUTION ACTIVITY
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mehedi67719&theme=react-dark&hide_border=true" />
+</p>
+
+---
+
+# 🚀 FEATURED PROJECTS
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/mehedi67719/assets/9e4aba435c3736f39968618e8ff1eeaddd44b983/Screenshot%202026-05-03%20182020.png" />
+  <img src="https://raw.githubusercontent.com/mehedi67719/assets/9b0ae885511b9e224b4dc3cb0c8979c7290e71fb/Screenshot%202026-05-02%20201518.png" />
+</p>
+
+---
+
+# 🌐 CONNECT WITH ME (PROFESSIONAL NETWORK)
+
+<p align="center">
+
+<a href="https://linkedin.com/in/mehedi-hassan-3a31a7331">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="mailto:mehedi67719@gmail.com">
+<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://dev.to/mehadi_hasan_5939c39f292b">
+<img src="https://img.shields.io/badge/Dev.to-000000?style=for-the-badge&logo=dev.to&logoColor=white"/>
+</a>
+
+<a href="https://github.com/mehedi67719">
+<img src="https://img.shields.io/badge/GitHub-111111?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+</p>
+
+---
+
+# 🔥 PROFESSIONAL HIGHLIGHTS
+
+- 💡 Strong problem-solving mindset  
+- ⚡ Clean & scalable code architecture  
+- 🚀 Performance-focused frontend development  
+- 🧱 Reusable component-based design  
+- 🎯 Real-world project experience  
+- 💼 Job-ready Full Stack Developer  
+
+---
+
+# 🧭 CAREER OBJECTIVE
+
+<p align="center">
+🎯 To become a <b>Senior Full Stack Developer</b>  
+🌍 Work in global remote teams  
+🚀 Build impactful real-world applications  
+💼 Grow in a professional engineering environment  
+</p>
+
+---
+
+<!-- 🌊 FOOTER -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,100:0f2027&height=120&section=footer"/>
+</p>
