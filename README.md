@@ -1,7 +1,7 @@
 
 <!-- 🌟 HERO BANNER -->
 <p align="center">
-  <img src="https://github.com/mehedi67719/assets/blob/main/github%20banner%20iamge.png?raw=true" alt="Banner" width="100%" />
+  <img src="https://github.com/mehedi67719/assets/blob/main/linkedin%20banner.png?raw=true" alt="Banner" width="100%" />
 </p>
 
 
