@@ -1,13 +1,10 @@
 
 <!-- 🌟 HERO BANNER -->
 <p align="center">
-  <img src="https://github.com/mehedi67719/assets/raw/main/cover%20photo.png" alt="Banner" width="100%" />
+  <img src="https://github.com/mehedi67719/assets/blob/main/github%20banner%20iamge.png?raw=true" alt="Banner" width="100%" />
 </p>
 
-<!-- 🌊 WAVE HEADER -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=120&section=header"/>
-</p>
+
 
 <h1 align="center">Hi 👋, I'm Mehedi Hassan</h1>
 
@@ -143,7 +140,4 @@
 
 ---
 
-<!-- 🌊 FOOTER -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,100:0f2027&height=120&section=footer"/>
-</p>
+
